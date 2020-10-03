@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      CentOS7 服务器分析挖矿病毒，清理挖矿病毒 tor2web
-subtitle:   github博客笔记
+subtitle:   清理挖矿病毒 tor2web
 date:       2020-10-02
 author:     Jerry
 header-img: img/post-bg-ios9-web.jpg
@@ -12,9 +12,9 @@ tags:
 	- 清理病毒
 ---
 
-> 第一个博客
+> CentOS7 服务器分析挖矿病毒，清理挖矿病毒 tor2web
 > 
-> [测试]
+> [CentOS7 服务器分析并清理挖矿病毒]
 
 #特征如下：
 
